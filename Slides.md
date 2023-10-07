@@ -11,7 +11,7 @@ backgroundColor: gray
 <!--
 
 As little Leio Python was tucked in his bed,
-"Mommy, where do object come from?" is what he said.
+"Mommy, how are objects made?" is what he said.
 
 "Well..." said his mommy, that's not so easy to say,
 How would you answer that question that day?
